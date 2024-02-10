@@ -6,7 +6,7 @@ A simple Mod Transfer tool for game CrossCore/一个简易的交错战线Mod传�
 
 # 使用PyQt实现的简易界面
 ![image](https://github.com/m1sift111/CrossCore_Mod_Transfer_Tool/assets/122286098/97dcae17-be00-4d27-a8f9-76ca9c647d64)
-# MuMuPlayer-12/shell的路径:
+# MuMuPlayer-12\shell的路径:
 自行查看模拟器安装文件夹，找到adb.exe所在路径填入
 ![image](https://github.com/m1sift111/CrossCore_Mod_Transfer_Tool/assets/122286098/7b13a83c-3b94-436a-acc7-bbf3a644dfc6)
 
